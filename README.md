@@ -31,6 +31,20 @@ A chatbot using the openAI API and front end widget was made to help user with q
 
 https://github.com/InfamousBolt/EduFlood/assets/47386839/a6ec9e07-8b73-4cfb-a639-5612a1fc09f0
 
+### Am I Safe and Vulnerability Map
+Using Leaflet, maps were integrated to show and stimulate what areas are vulnerable and safe incase of a flood event in Mumbai. User can simulate a sea-level rise(example 1mm/2mm) and check what areas might get flooded.
+
+
+
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/dfc9303e-cbb7-43f9-a906-b3792f351132
+
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/7afc8a76-6223-47b5-8bf4-f9f7a51b65f3
+
+#### Additional:
+The project has much more to it. Users can collab and share pics of Flood which get stored in Firebase, get flood SMS alerts using Twilio, Subscribe themselves to receive alerts and more. Get in touch to understand the complete scope of this project. Thanks :)
+
 
 
 
