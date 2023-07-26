@@ -11,3 +11,29 @@ Being a low-lying country, certain parts of India are very much prone to coastal
 ## Features:
 
 ### 3D models with AR interactivity:
+Google's model-viewer was used to integrate 3D models in GLB format and add a "View in AR" option when the site is opened in mobile devices.
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/ba5cd6df-4570-4c6c-a3a3-ebc41f65224b
+
+### Interactive stories:
+A modal component renders a video which, upon ending, provides the user with choices to decide the next outcome. State Management and Bootstrap modals were used for it.
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/45a816c1-ccf4-48f8-9316-4b6c06e37f19
+
+### Immersive Home Screen:
+An immersive home screen with custom fonts and navigation scroll helps user smoothly navigate through the entire web-app. Routing is also used for some of the features.
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/9b1ca87d-5080-49f4-bd77-9875af814c6f
+
+
+### 24*7 Active Chatbot powered by OpenAI:
+A chatbot using the openAI API and front end widget was made to help user with queries. NOTE: Generation of response can sometime take a while because the call is made to openAI API to fetch the response.
+
+https://github.com/InfamousBolt/EduFlood/assets/47386839/a6ec9e07-8b73-4cfb-a639-5612a1fc09f0
+
+
+
+
+
+
+
