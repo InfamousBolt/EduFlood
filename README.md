@@ -8,6 +8,11 @@
 ## Motive
 Being a low-lying country, certain parts of India are very much prone to coastal floods as the sea-level rises. For the scope of this project, we selected Mumbai because of its high population density and frequently flooded coasts. Data is gathered from GIS to provide a vulnerability map too along with a chatbot powered by OpenAI.
 
+## Tech Stack Used:
+ReactJS, Bootstrap, Firebase, Flask, Python, NPM TPLs, API Integration(Backend, Twilio, OpenAI)
+**Note: The Backend stuff is not uploaded here for privacy reasons**
+
+
 ## Features:
 
 ### 3D models with AR interactivity:
